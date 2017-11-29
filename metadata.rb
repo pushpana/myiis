@@ -1,10 +1,10 @@
 name 'myiis'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Aish Pushpangadan'
+maintainer_email 'aish.pushpangadan@kbslp.com'
 license 'all_rights'
 description 'Installs/Configures myiis'
 long_description 'Installs/Configures myiis'
-version '0.1.0'
+version '0.1.1'
 
 # The `issues_url` points to the location where issues for this cookbook are
 # tracked.  A `View Issues` link will be displayed on this cookbook's page when
